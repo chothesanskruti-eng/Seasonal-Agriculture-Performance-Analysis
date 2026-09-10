@@ -9,7 +9,7 @@ This repository contains a data analytics and machine learning pipeline evaluati
 - `presentation/`: Contains presentation slides.
 
 ## Tech Stack
-- Python 3.x, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- Python 3.x, Pandas, NumPy, Matplotlib, Scikit-Learn
 
 ## Model Performance
 - Random Forest Regression R² Score: 0.4815
