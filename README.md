@@ -6,7 +6,7 @@ This repository contains a data analytics and machine learning pipeline evaluati
 ## Directory Structure
 - `data/`: Contains dataset files.
 - `notebooks/`: Contains executable Jupyter Notebooks.
-- `presentation/`: Contains presentation slides.
+
 
 ## Tech Stack
 - Python 3.x, Pandas, NumPy, Matplotlib, Scikit-Learn
